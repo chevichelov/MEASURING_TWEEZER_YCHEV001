@@ -9,7 +9,7 @@ Arduino Nano, обратите внимание, на плате требует�
 <img src="https://github.com/chevichelov/MEASURING_TWEEZER_YCHEV001/blob/main/IMG/MAIN.jpg" alt="Измерительный пинцет DIY YCHEV001 на Arduino" />
 
 <h2 align="center">Схема</h2>
-<img src="https://github.com/chevichelov/CONTROL_AMOLED/blob/main/IMG/SCHEMA.jpg" alt="Схема измерительного пинцета DIY YCHEV001 на Arduino" />
+<img src="https://github.com/chevichelov/MEASURING_TWEEZER_YCHEV001/blob/main/IMG/SCHEMA.jpg" alt="Схема измерительного пинцета DIY YCHEV001 на Arduino" />
 
 <h2 align="center">Видео инструкция</h2>
 <div align="center">
